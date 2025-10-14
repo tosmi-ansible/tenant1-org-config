@@ -18,8 +18,8 @@ The configuration is applied via the [org-config](playbooks/org-config.yaml) pla
 
 This repository depends on the following Ansible collections:
 
-- _ansible.platform
-- _ansible.controller
+- _ansible.platform_
+- _ansible.controller_
 - _ansible.hub_
 - _ansible.eda_
 - _infra.app_configuration_ 
