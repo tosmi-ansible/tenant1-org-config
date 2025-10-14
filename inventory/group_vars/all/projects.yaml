@@ -1,6 +1,6 @@
 ---
 controller_projects:
-  - name: 01 Example Project
+  - name: 02 Example Project
     scm_type: git
     scm_url: https://github.com/tosmi-ansible/tenant1-example-project.git
     scm_branch: main

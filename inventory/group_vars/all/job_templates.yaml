@@ -1,0 +1,10 @@
+---
+controller_templates:
+  - name: 02 Example Job Template (Hello World)
+    description: Prints Hello World
+    job_type: run
+    inventory: 02 Example Inventory
+    # credentials: admin@internal-RHVM-01
+    project: 02 Example Project
+    playbook: playbooks/hello-world.yaml
+    verbosity: 2

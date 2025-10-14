@@ -1,0 +1,4 @@
+---
+controller_inventories:
+  - name: 02 Example Inventory
+    organization: Tenant-1
