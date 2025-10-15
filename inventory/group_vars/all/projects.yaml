@@ -10,3 +10,13 @@ controller_projects:
     organization: Tenant-1
     wait: true
     update_project: true
+  - name: 03 Test Project
+    scm_type: git
+    scm_url: https://github.com/tosmi-ansible/tenant1-example-project.git
+    scm_branch: main
+    scm_clean: true
+    credentials: 01 Tenant 1 Github Token
+    description: Tenant1 Example Project
+    organization: Tenant-1
+    wait: true
+    update_project: true
